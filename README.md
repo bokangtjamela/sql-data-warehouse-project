@@ -1,4 +1,5 @@
 # Data Warehouse and Analytics Project
+<img width="1374" height="1145" alt="Data Ware Housing Workflow" src="https://github.com/user-attachments/assets/265bb6a5-7895-430f-b988-46fe286aa0f3" />
 
 
 ## 📌 Project Overview
