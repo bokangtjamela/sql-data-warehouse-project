@@ -104,34 +104,8 @@ Designing structured data models using concepts such as:
 
 ## 📂 Project Structure
 
-```text
-SQL-Data-Warehouse-Project/
-│
-├── README.md
-│
-├── datasets/
-│
-├── docs/
-│   ├── requirements.md
-│   ├── architecture.md
-│   ├── data_dictionary.md
-│   └── data_quality.md
-│
-├── diagrams/
-│   ├── architecture.png
-│   ├── data_flow.png
-│   └── data_model.png
-│
-├── scripts/
-│   ├── database_setup.sql
-│   ├── tables.sql
-│   ├── staging.sql
-│   ├── transformation.sql
-│   ├── loading.sql
-│   └── analytics.sql
-│
-└── reports/
-    └── business_insights.md
+<img width="1312" height="1103" alt="Project Structure" src="https://github.com/user-attachments/assets/c5384a5a-28e9-41c4-8fd8-4127f891e3d9" />
+
 ```
 
 ---
