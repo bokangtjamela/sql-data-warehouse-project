@@ -32,39 +32,7 @@ The main objectives of this project are to:
 
 ## 🏗️ Data Warehousing Workflow
 
-The project follows the general workflow:
 
-```text
-SOURCE DATA
-     │
-     ▼
-  EXTRACT
-     │
-     ▼
-   STAGING
-     │
-     ▼
- TRANSFORM
-     │
-     ├── Data Cleaning
-     ├── Data Validation
-     ├── Data Integration
-     └── Data Transformation
-     │
-     ▼
-    LOAD
-     │
-     ▼
-DATA WAREHOUSE
-     │
-     ▼
-DATA MODEL
-     │
-     ▼
-ANALYTICS & BUSINESS INSIGHTS
-```
-
----
 
 ## 🧰 Technologies & Tools
 
